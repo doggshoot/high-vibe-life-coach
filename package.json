@@ -1,0 +1,24 @@
+{
+  "name": "high-vibe-life-coach",
+  "version": "0.1.0",
+  "description": "Calm daily mindset app",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "echo \"no build step configured\"",
+    "test": "echo \"No tests configured\" && exit 0",
+    "lint": "echo \"No linter configured\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doggshoot/high-vibe-life-coach.git"
+  },
+  "author": "Ludovic leung kwing chung <47455625+doggshoot@users.noreply.github.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
